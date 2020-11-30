@@ -36,25 +36,19 @@ li a:hover {
 }
 h1{
 	text-align:center;
-	color:Black;
+	color:White;
 	font-size:300%;
 	text-decoration:underline;
 }
-
+h2{
+	color:White;
+}
 
 nav2{
 	float:left;
-	width:48%;
-	height:750px;
+	width:98%;
+	height:300px;
 	padding:15px;
-	background-color:black;
-	text-align:center;
-}
-nav3{
-	float:left;
-	width:48%;
-	height:750px;
-	padding:15px;
-	background-color:darkgrey;
+	background-color:grey;
 	text-align:center;
 }
